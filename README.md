@@ -173,3 +173,9 @@ Here are the link of my output videos:
 
 ![Shadow problem][issue_02]
 
+---
+
+### Reference
+1. A very amazing result: [Lane Tracker](https://github.com/pierluigiferrari/lane_tracker)
+2. Deep learning method: [LaneNet-Lane-Detection](https://github.com/MaybeShewill-CV/lanenet-lane-detection)
+
